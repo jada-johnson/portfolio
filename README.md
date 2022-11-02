@@ -22,14 +22,14 @@ I hope to learn how to especially tackle making such daunting information access
 I'm excited to be challenged in this course and really think outside the box(plot)! *badum tss🥁*
 
 # portfolio
- ## Visualizing Government Debt
+## Visualizing Government Debt
  
- ### coming soon
+### coming soon
  
- ## Critique By Design
+## Critique By Design
  
- ### coming soon
+### coming soon
  
- ## Drum Roll Please...Final Project
+## Drum Roll Please...Final Project
 
- ### coming soon
+### coming soon
