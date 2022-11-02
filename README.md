@@ -1,4 +1,4 @@
-# JaDa Johnson portfolio
+# JaDa Johnson Portfolio
 https://jada-johnson.github.io/portfolio/ 
 
 hi! welcome to my public portfolio for my Telling Stories with Data course at CMU! I hope you enjoy the show ;)
