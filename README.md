@@ -9,7 +9,7 @@ hi! welcome to my public portfolio for my Telling Stories with Data course at CM
 
 I'm originally from Houston, TX, and I landed here at CMU by way of ungraduate in Los Angeles, CA. I'm a second year MSPPM student with a concentration in environmental policy. I really hope to work on securing access to safe, clean drinking water, especially as climate change affects the sort of access that we will have to such a vital resource. 💦 
 
-of course, data in this sort of work will be incredibly important, given that more impactful work can be done if we able to account for each and every droplet. furthermore, ensuring that decisionmakers are able to inform key decisions moving forward in our changing world 🌎 will also require keeping track of those at risk and all ready in need.
+of course, data in this sort of work will be incredibly important, given that more impactful work can be done if we are able to account for each and every droplet. furthermore, ensuring that decisionmakers are able to inform key decisions moving forward in our changing world 🌎 will also require keeping track of those at risk and all ready in need.
 
 not everyone will be impacted, by way of privilege, access to technology, etc., but those who already are and will be soon are vulnerable beyond what most people can imagine. visualizing data around this topic makes it imaginable and helps action to be set in motion (hopefully!).
 
