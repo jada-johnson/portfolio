@@ -23,8 +23,10 @@ I'm excited to be challenged in this course and really think outside the box(plo
 
 # portfolio
 ## Visualizing Government Debt
- 
-### coming soon
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11735967"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+The above visual tracks the Debt-to-GDP Ratio for an assortment of countries around the world from 1995 through 2021. 
  
 ## Critique By Design
  
