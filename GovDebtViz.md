@@ -1,4 +1,4 @@
-# Government Debt by County, 2017
+# Government Debt by Country, 2017
 
 The following a data visualization produced by the OECD.
 
