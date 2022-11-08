@@ -40,6 +40,10 @@ The above visual tracks the Debt-to-GDP Ratio for an assortment of countries aro
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11736509"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Above, the government indebtedness for an assortment of both OECD (light blue) and non-OECD (gray) countries are shown in comparison to the global government debt average (orange). The countries are respresentative of different forms of governments from five continents, so surely, the debt functions differently based on how the countries choose to finance their debt. 2017 is one of the most recent years in which the OECD had sufficient data on several countries; subsequently, that is why that year was chosen for this exercise. Furthermore, it allows for an easier comparison to the chart above produced directly from the OECD, which also focuses on 2017.
+
+The two graphs represent the same information; however, I believe that they each emphasize different data points.
+
 ## Critique By Design
  
 ### coming soon
