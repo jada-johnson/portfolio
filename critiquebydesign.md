@@ -14,4 +14,4 @@ Organizing the bars from most to least democratic aids the visual, but it's hard
 #### My solution was a choropleth map that would allow the user to absorb the same information over four frames: 1800, 1900, 2000, and 2021 (most current data).
 
 Sketch:
-![Sketch](DemocracySketch.pdf)
+![Sketch](democracysketch.png)
