@@ -28,23 +28,22 @@ Both classmates alluded to teh fact that the map was of electoral democracy, and
 
 2. Can you describe to me what this is telling you?
 
-General answer: The Distribution of Electoral Democracy over time.
+      General answer: The Distribution of Electoral Democracy over time.
 
 
 3. Is there anything you find surprising or confusing?
 
-Not really.
+      Not really.
 
-The colors of certain countries that I may not have known were or weren't as democratic.
-
+      The colors of certain countries that I may not have known were or were not as democratic as I thought they would be.
 
 4. Who do you think is the intended audience for this?
 
-Someone who is interested in politics or history. Potentially students.
+      Someone who is interested in politics or history. Potentially students.
 
 5. Is there anything you would change or do differently?
 
-Green = Money, maybe try another color. 
+      Green reminds me of **money**, maybe try another color. Blue? Purple?
 
 
 #### Part Five: Final Redesign
