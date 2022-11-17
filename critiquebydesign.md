@@ -24,7 +24,8 @@ To me, this was would convey a similar message over longer intervals of time, br
 
 1. Can you tell me what you think this is?
 
-Both classmates alluded to teh fact that the map was of electoral democracy, and that the lighter green countries were less democratic than the darker green countries.
+      Both classmates alluded to teh fact that the map was of electoral democracy, and that the lighter green countries were less democratic than the                         
+      darker green countries.
 
 2. Can you describe to me what this is telling you?
 
@@ -55,3 +56,5 @@ Both classmates alluded to teh fact that the map was of electoral democracy, and
 <div class="flourish-embed flourish-map" data-src="visualisation/11849697"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-map" data-src="visualisation/11850216"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
