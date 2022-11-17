@@ -15,3 +15,32 @@ Organizing the bars from most to least democratic aids the visual, but it's hard
 
 Sketch:
 ![Sketch](democracysketch.png)
+
+To me, this was would convey a similar message over longer intervals of time, bringing the audience to the most recent data in 2021. The map allowed me to *see* exactly where a country is in terms of democracy index and location in comparison to another country. I initially chose green because it seemed to not have any particular sort of political connotation.
+
+#### Part Four: Testing the Solution
+
+##### In speaking with two different class mates, I asked them what their thoughts were on the sketch, given zero context. I used the following questions:
+
+1. Can you tell me what you think this is?
+
+Both classmates alluded to teh fact that the map was of electoral democracy, and that the lighter green countries were less democratic than the darker green countries.
+
+2. Can you describe to me what this is telling you?
+
+
+
+
+
+3. Is there anything you find surprising or confusing?
+
+
+
+4. Who do you think is the intended audience for this?
+
+
+
+5. Is there anything you would change or do differently?
+
+
+#### Part Five: Final Redesign
