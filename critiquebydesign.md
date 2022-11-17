@@ -57,4 +57,6 @@ To me, this was would convey a similar message over longer intervals of time, br
 
 <div class="flourish-embed flourish-map" data-src="visualisation/11850216"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+In choosing four frames, I think the same idea of change over time could be conveyed, and the audience is able to browse the geography will retaining the same information. I switched the indix indicator color to blue given the feedback, and I did my best to keep things as simple as possible. Overall, I think this is more appealing way to compare in a solid color gradient as opposed to the rainbow effect happenin in the bar graph. 
 
+In truth, it would be more optimal to have the maps side by side or even presented in a quadrant formation, in order to allow less eye travel. Also, the highlight feature of the original design is a feature that would be just as useful on these visualizations. 
