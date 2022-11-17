@@ -44,3 +44,11 @@ Both classmates alluded to teh fact that the map was of electoral democracy, and
 
 
 #### Part Five: Final Redesign
+
+<div class="flourish-embed flourish-map" data-src="visualisation/11834138"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-map" data-src="visualisation/11846925"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-map" data-src="visualisation/11846925"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-map" data-src="visualisation/11850216"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
