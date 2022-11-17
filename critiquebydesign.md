@@ -18,9 +18,9 @@ Sketch:
 
 To me, this was would convey a similar message over longer intervals of time, bringing the audience to the most recent data in 2021. The map allowed me to *see* exactly where a country is in terms of democracy index and location in comparison to another country. I initially chose green because it seemed to not have any particular sort of political connotation.
 
-#### Part Four: Testing the Solution
+### Part Four: Testing the Solution
 
-##### In speaking with two different class mates, I asked them what their thoughts were on the sketch, given zero context. I used the following questions:
+#### In speaking with two different class mates, I asked them what their thoughts were on the sketch, given zero context. I used the following questions:
 
 1. Can you tell me what you think this is?
 
@@ -47,7 +47,7 @@ To me, this was would convey a similar message over longer intervals of time, br
       Green reminds me of **money**, maybe try another color. Blue? Purple?
 
 
-#### Part Five: Final Redesign
+### Part Five: Final Redesign
 
 <div class="flourish-embed flourish-map" data-src="visualisation/11834138"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
