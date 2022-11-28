@@ -37,7 +37,9 @@ Additional graphic created using this data:
 This would be more info to inform the audience about what their rates may look like, and additionally point them in the direction of the NFIP office that can best asses their needs and get them assistance when and where applicable. This would allow the story to also address the inequality in access to insurance while showing cost coverage disparities between states.
 
 
+### Method
 
+Currently, the idea is to attempt a choropleth map similar to the one we created using NYTimes covid data on Tableau. As a backup, I intend to create the maps using Flourish; however, in following along step by step, once the data is consolidated into uploadable files, the project should go smoothly.
 
 
 
