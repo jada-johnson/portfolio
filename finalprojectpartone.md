@@ -24,7 +24,20 @@ additional idea -- bar graphs: Organized from high to low risk states right next
 Sources: Policy Genius
 
 ![screenshot](policygeniusscreenshot.png) 
+
+This source would allow us to recreate the table into a csv file that we can use for coverage, as coverage is calculated by # of homes covered divied by the total homes accounted for the state, according to the US Census.
+
+
+
+FEMA and the USACE have flood risk data by state that will allow me to create the choropleth map according to the risk codes they have associated with each state.
+
+Additional graphic created using this data:
 ![screenshot](policygeniusscreenshot2.png) 
+
+This would be more info to inform the audience about what their rates may look like, and additionally point them in the direction of the NFIP office that can best asses their needs and get them assistance when and where applicable. This would allow the story to also address the inequality in access to insurance while showing cost coverage disparities between states.
+
+
+
 
 
 
