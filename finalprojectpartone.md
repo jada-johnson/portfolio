@@ -12,7 +12,7 @@ This project will focus on emphasizing the numbers that close the gap in states 
 
 Choropleth Maps that would show the risk according to both Flood Risk and insurance Coverage according to each states' data. The maps would be aimed at showing where the dots should be just as big as the states pigment; however, where those two are not aligned, therein presents the issue.
 
-
+![Sketch:](part1sketch.jpg)
 
 
 additional idea -- bar graphs: Organized from high to low risk states right next to high to low coverage states; given the data, the overlap is not as large as one might suspect.
