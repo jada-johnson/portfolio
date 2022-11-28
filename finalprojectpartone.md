@@ -27,9 +27,9 @@ Sources: Policy Genius
 
 This source would allow us to recreate the table into a csv file that we can use for coverage, as coverage is calculated by # of homes covered divied by the total homes accounted for the state, according to the US Census.
 
+![screenshot](femascreenshot.png)
 
-
-FEMA and the USACE have flood risk data by state that will allow me to create the choropleth map according to the risk codes they have associated with each state.
+FEMA, the USACE, and NFIP have flood risk data by state that will allow me to create the choropleth map according to the risk codes they have associated with each state.
 
 Additional graphic created using this data:
 ![screenshot](policygeniusscreenshot2.png) 
