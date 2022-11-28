@@ -23,7 +23,8 @@ additional idea -- bar graphs: Organized from high to low risk states right next
 
 Sources: Policy Genius
 
-(policygeniusscreenshot.jpg) 
+![screenshot](policygeniusscreenshot.png) 
+![screenshot](policygeniusscreenshot2.png) 
 
 
 
