@@ -17,8 +17,13 @@ Choropleth Maps that would show the risk according to both Flood Risk and insura
 
 additional idea -- bar graphs: Organized from high to low risk states right next to high to low coverage states; given the data, the overlap is not as large as one might suspect.
 
+  -->  Will show better renditions to different once I create the proper csv file and upload to began real graphics in order to get tehir opinions
+
 ### Data
 
+Sources: Policy Genius
+
+(policygeniusscreenshot.jpg) 
 
 
 
