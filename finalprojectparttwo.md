@@ -63,8 +63,34 @@ Person A: Yes! I immediately got it off the bat, but I think I was surprised by 
 
 Person B: "Yeah, it's pretty clear, especially as someone who does not like to look at numbers for too long"
 
-Percon C: "Makes sense, but it seems to overly generalize"
+Percon C: "Makes sense, but it seems to overly generalize...I see where you're going though"
 
-2. 
+2.
 
-E. Changes I plan on Implementing to the Visualizations Next Week to Address the Issues Identified. 
+Person A: Well-enough, I'm now thinking about my house. Even though I already have flood insurance, I'm worried about those who don't. I recognize that cost is barrier, but hopefully that will change...I don't know.
+
+Person B: Yes. If by "engaged" you mean "concerned" or "surprised," then yes.
+
+Person C: Yeah, I like that I can get through the map state by state and compare.
+
+3.
+
+Person A: Yeah, I see the story forming. I'm waiting on my happy ending, but I don't know if there is one with climate change.
+
+Person B: The story is there. I'm definitely more worried about people losing so much. I do think the map should talk about price of policy if possible.
+
+Person C: Yes, but I want to see a potential solution (or even band-aid). I know you talk about costs in the beginning, but I think inclluding that more could be really helpful.
+
+4.
+
+Person A: Yes, I feel more informed, but I want more people who aren't insured to get there. And if policy needs to change to allow that, we need to make it more of a political concern -- especially in coastal areas, and these unexpected places.... (What's going on in West Virginia?)
+
+Person B: Almost, I'm excited for the money part to come in. People care about their wallets!
+
+Person C: Sort of, I'm definitely willling to look more into the data for where my family lives.
+
+E. Changes I plan on Implementing to the Visualizations Next Week to Address the Issues Identified.
+
+I plan on making the maps in Tableau as means to better overlay the data. People in class really liked that idea when we were discussing next steps. If that is simply not feasible, someone mentioned showing these side-by-side for less eye-travel and easier comparison.
+
+I also have one more graphi regarding the cost of policy that will lead to gettting people informatin on how to get policies and began looking at the possiblity of insurance assistance programs. 
