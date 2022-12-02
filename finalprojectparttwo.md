@@ -93,4 +93,6 @@ E. Changes I plan on Implementing to the Visualizations Next Week to Address the
 
 I plan on making the maps in Tableau as means to better overlay the data. People in class really liked that idea when we were discussing next steps. If that is simply not feasible, someone mentioned showing these side-by-side for less eye-travel and easier comparison.
 
-I also have one more graphi regarding the cost of policy that will lead to gettting people informatin on how to get policies and began looking at the possiblity of insurance assistance programs. 
+I also have one more graphic regarding the cost of policy that will lead to gettting people informatin on how to get policies and began looking at the possiblity of insurance assistance programs. 
+
+Everyone seems on board with teh color schemes being blue, given water, and so far the title's and subtitles are working in favor of the story.
