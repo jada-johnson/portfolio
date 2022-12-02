@@ -36,23 +36,35 @@ Graphics as they stand:
 
 I knew that I wanted someone from my hometown of Houston, given the impact that flooding continues to have in the area. If they were a homeowner, it was an added bonus.
 
- Person identified: 
+ * Person A: Lifetime Resident of Houston, TX; 60 years of age
 
 I also wanted the perspective of a policy student that I was least aware was interested in climate change issues. 
 
+ * Person B: Current UPenn Graduate Student in Philadelphia, PA; 23 years of age
+
 As sort of a baseline, I asked a random associate in order to generally see what their thoughts were as well.
+
+ * Person C: Current CMU Undergraduate Mechanical Engineering Major in Pittsburgh, PA; 20 years of age
 
 ### C. Interview Script
 1. Is it clear and easy to understand?
 
 2. Did you feel engaged?
 
-
-
 3. Do the data and visualizations support the presentation?
 
 4. Is there a clear call to action or next steps?
 
-D. the findings from your interviews
+D. The Findings from the Interviews
+
+1. 
+
+Person A: Yes! I immediately got it off the bat, but I think I was surprised by teh color of   certain states once I read the titles throroughly 
+
+Person B: "Yeah, it's pretty clear, especially as someone who does not like to look at numbers for too long"
+
+Percon C: "Makes sense, but it seems to overly generalize"
+
+2. 
 
 E. Changes I plan on Implementing to the Visualizations Next Week to Address the Issues Identified. 
