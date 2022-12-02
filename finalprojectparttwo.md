@@ -1,7 +1,7 @@
-# The Water Is Rising (Cont'd)
+# The Water Is Rising - Part II
 ## How insurance factors into planning for flood-risk associated with climate change
 
-Executive Summary (Revised):
+Overview (revised):
 On a personal level, there is only so much that we can do to make ourselves resilient to the effects of climate change. Sea-Level Rise (SLR) is one of the effects that will alter the lives of many people living on coasts, islands, as well as inland. Dr. Rick Spinrad, the administrator of the National Oceanic and Atmospheric Administration (NOAA), stated recently that, "The United States is expected to experience as much sea level rise in the next 30 years as we saw over the span of the last century” (The New York Times, 2022). So, how does one best prepare themself (and their families, when applicable) before the water is at their front door?
 
 It is reported that "twenty-five percent of flood claims occur to homes outside of high-risk areas," and this number is only expected to rise as cities begin mitigating climate change. Water is a major factor in going forward. The federal safety-net, the National Flood Insurance Program (NFIP), covers 95% od flood insurance policies, leaving only 5% to private insurance companies. While the federal program has a high participation rate of those that currently have insurance, the underlying issue is that only ten percent of homeowners have NFIP flood insurance nation wide. For this reason, greater awareness about protecting people's families and their dwellings from the threat that flooding poses, even where it is unexpected.
@@ -18,9 +18,9 @@ Graphics as they stand:
 <div class="flourish-embed flourish-map" data-src="visualisation/12025221"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-### User Research Protocol
+## User Research Protocol
 
-## a. the target audience you hope to reach with your story (in order by proirity)
+### A. The Target Audience (listed in order of priority)
 
   * People potentially in areas that are likely to be impacted by flooding (i.e. coastal areas)
   
@@ -32,17 +32,27 @@ Graphics as they stand:
   * People generally interested in climate change that want to keep a diversified knowledge on the    
   issue
 
-## b. My approach to identifying representative individuals to interview 
+### B. Approach to Identifying Representative Individuals to Interview 
 
 I knew that I wanted someone from my hometown of Houston, given the impact that flooding continues to have in the area. If they were a homeowner, it was an added bonus.
 
+ Person identified: 
+
 I also wanted the perspective of a policy student that I was least aware was interested in climate change issues. 
 
-As sort of a baseline, I asked a randome associate in order to generally see what their thoughts were as well.
+As sort of a baseline, I asked a random associate in order to generally see what their thoughts were as well.
 
-## c. your interview script; 
+### C. Interview Script
+1. Is it clear and easy to understand?
+
+2. Did you feel engaged?
 
 
 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+3. Do the data and visualizations support the presentation?
+
+4. Is there a clear call to action or next steps?
+
+D. the findings from your interviews
+
+E. Changes I plan on Implementing to the Visualizations Next Week to Address the Issues Identified. 
