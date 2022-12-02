@@ -14,5 +14,35 @@ Graphics as they stand:
 <div class="flourish-embed flourish-map" data-src="visualisation/12023998"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
+
 <div class="flourish-embed flourish-map" data-src="visualisation/12025221"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+### User Research Protocol
+
+## a. the target audience you hope to reach with your story (in order by proirity)
+
+  * People potentially in areas that are likely to be impacted by flooding (i.e. coastal areas)
+  
+  * Homeowners
+
+  * People interested in learning about climate change mitagation on a more personal level, outside of          
+  the typical messaging, such as "reduce, reuse, and recycle"
+  
+  * People generally interested in climate change that want to keep a diversified knowledge on the    
+  issue
+
+## b. My approach to identifying representative individuals to interview 
+
+I knew that I wanted someone from my hometown of Houston, given the impact that flooding continues to have in the area. If they were a homeowner, it was an added bonus.
+
+I also wanted the perspective of a policy student that I was least aware was interested in climate change issues. 
+
+As sort of a baseline, I asked a randome associate in order to generally see what their thoughts were as well.
+
+## c. your interview script; 
+
+
+
+d. the findings from your interviews; and 
+e. changes you plan on implementing to your visualizations next week to address the issues identified. 
