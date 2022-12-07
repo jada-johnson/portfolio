@@ -55,7 +55,7 @@ As sort of a baseline, I asked a random associate in order to generally see what
 
 4. Is there a clear call to action or next steps?
 
-D. The Findings from the Interviews
+### D. The Findings from the Interviews
 
 1. 
 
@@ -89,7 +89,7 @@ Person B: Almost, I'm excited for the money part to come in. People care about t
 
 Person C: Sort of, I'm definitely willling to look more into the data for where my family lives.
 
-E. Changes I plan on Implementing to the Visualizations Next Week to Address the Issues Identified.
+### E. Changes I plan on Implementing to the Visualizations Next Week to Address the Issues Identified.
 
 I plan on making the maps in Tableau as means to better overlay the data. People in class really liked that idea when we were discussing next steps. If that is simply not feasible, someone mentioned showing these side-by-side for less eye-travel and easier comparison.
 
