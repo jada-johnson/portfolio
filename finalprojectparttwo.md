@@ -59,7 +59,7 @@ As sort of a baseline, I asked a random associate in order to generally see what
 
 1. 
 
-Person A: Yes! I immediately got it off the bat, but I think I was surprised by teh color of   certain states once I read the titles throroughly 
+Person A: Yes! I immediately got it off the bat, but I think I was surprised by the color of certain states once I read the titles throroughly 
 
 Person B: "Yeah, it's pretty clear, especially as someone who does not like to look at numbers for too long"
 
