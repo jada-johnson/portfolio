@@ -4,4 +4,6 @@
 
 # [Final: The Water Is Rising](https://carnegiemellon.shorthandstories.com/the-water-is-rising/)
 
+<script src="https://carnegiemellon.shorthandstories.com/the-water-is-rising/embed.js"></script>
+
 ## Reflection:
