@@ -48,8 +48,8 @@ The graphs at the beginning and end represent the same information; however, I b
 
 ## Critique By Design
  
-### coming soon
+### [Critique By Design](critiquebydesign) 
  
-## Drum Roll Please...Final Project
+## Final Project
 
-### coming soon
+### 
