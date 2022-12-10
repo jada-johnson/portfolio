@@ -11,6 +11,14 @@ It is reported that "twenty-five percent of flood claims occur to homes outside 
 
 This project will focus on emphasizing the numbers that close the gap in states that are not necessarily known for their proximity to water, yet where scientists have identified potential flood risk in the future. I want the audience to takeaway that there are safety nets in place that they can lean into and not shy away from as planning becomes more necessary given the challenges facing our society. Often the message is that "climate change is scary," and in truth, it is. However, presenting people with tangible ways to be resilient to the risks that climate change poses seems like a more productive way to focus efforts.
 
+References:
+
+“Find Your Property’s Climate Risks - Homepage.” Risk Factor, https://riskfactor.com. Accessed 6 Dec. 2022.
+
+Fountain, Henry. “Coastal Sea Levels in U.S. to Rise a Foot by 2050, Study Confirms.” The New York Times, 15 Feb. 2022. NYTimes.com, https://www.nytimes.com/2022/02/15/climate/us-rising-sea-levels.html.
+
+Howard, Pat. “Flood Insurance Statistics [UPDATED for 2022].” Policygenius, https://www.policygenius.com/homeowners-insurance/flood-insurance-statistics/. Accessed 5 Dec. 2022.
+
 
 Graphics as they stand:
 
