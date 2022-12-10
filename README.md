@@ -48,7 +48,7 @@ The graphs at the beginning and end represent the same information; however, I b
 
 ## Critique By Design
  
-### [Critique By Design](critiquebydesign) 
+### [Critique By Design](critiquebydesign](https://jada-johnson.github.io/portfolio/critiquebydesign.html)) 
  
 ## Final Project
 
