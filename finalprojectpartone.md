@@ -42,4 +42,6 @@ This would be more info to inform the audience about what their rates may look l
 Currently, the idea is to attempt a choropleth map similar to the one we created using NYTimes covid data on Tableau. As a backup, I intend to create the maps using Flourish; however, in following along step by step, once the data is consolidated into uploadable files, the project should go smoothly.
 
 
+## [Part Two](https://jada-johnson.github.io/portfolio/finalprojectparttwo.html)
 
+## [Part Three](https://jada-johnson.github.io/portfolio/finalprojectpartthree.html)
