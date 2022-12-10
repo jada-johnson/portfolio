@@ -52,4 +52,6 @@ The graphs at the beginning and end represent the same information; however, I b
  
 ## Final Project
 
-### 
+### [Part One](https://jada-johnson.github.io/portfolio/finalprojectpartone.html)
+### [Part Two](https://jada-johnson.github.io/portfolio/finalprojectparttwo.html)
+### [Part Three](https://jada-johnson.github.io/portfolio/finalprojectpartthree.html)
