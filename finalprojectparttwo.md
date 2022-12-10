@@ -1,4 +1,7 @@
 # The Water Is Rising - Part II
+
+### [Part One](https://jada-johnson.github.io/portfolio/finalprojectpartone.html) 
+
 ## How insurance factors into planning for flood-risk associated with climate change
 
 Overview (revised):
@@ -95,4 +98,6 @@ I plan on making the maps in Tableau as means to better overlay the data. People
 
 I also have one more graphic regarding the cost of policy that will lead to gettting people informatin on how to get policies and began looking at the possiblity of insurance assistance programs. 
 
-Everyone seems on board with teh color schemes being blue, given water, and so far the title's and subtitles are working in favor of the story.
+Everyone seems on board with the color schemes being blue, given water, and so far the title's and subtitles are working in favor of the story.
+
+## [Part Three](https://jada-johnson.github.io/portfolio/finalprojectpartthree.html)
